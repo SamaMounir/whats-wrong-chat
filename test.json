@@ -1,0 +1,54 @@
+{
+    "0": {
+        "Fname": "Sam",
+        "Lname": "Test",
+        "chatRooms": [
+            {
+                "chatRoomID": 155,
+                "messages": [],
+                "type": "Private",
+                "userIDs": [
+                    1,
+                    5
+                ]
+            }
+        ],
+        "contacts": [],
+        "id": 1,
+        "lastSeen": "online",
+        "number": 123456,
+        "password": "abc123",
+        "profile": {
+            "about": "",
+            "userID": 0,
+            "visibility": false
+        },
+        "stories": []
+    },
+    "1": {
+        "Fname": "Sam2",
+        "Lname": "Test",
+        "chatRooms": [
+            {
+                "chatRoomID": 156,
+                "messages": [],
+                "type": "Private",
+                "userIDs": [
+                    1,
+                    5
+                ]
+            }
+        ],
+        "contacts": [],
+        "id": 1,
+        "lastSeen": "online",
+        "number": 123456,
+        "password": "abc123",
+        "profile": {
+            "about": "",
+            "userID": 0,
+            "visibility": false
+        },
+        "stories": []
+    }
+}
