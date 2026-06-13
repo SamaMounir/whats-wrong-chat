@@ -1,0 +1,21 @@
+# Qt build output
+build/
+*.o
+*.obj
+*.exe
+*.dll
+*.a
+*.lib
+
+# Qt generated files
+*.qmake.stash
+*.pro.user
+Makefile
+moc_*.cpp
+ui_*.h
+qrc_*.cpp
+
+# VS / general
+.vs/
+*.user
+*.suo
